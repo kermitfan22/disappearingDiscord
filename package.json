@@ -1,0 +1,13 @@
+{
+  "name": "disappearingDiscord",
+  "description": "Discord disappearing messages",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "request": "2.81.0"
+  }
+}
