@@ -1,6 +1,6 @@
 # Discord disappearing messages
 
-[![Discord](https://img.shields.io/discord/699902897319837776)](https://discord.gg/XGvHW5D) [![Maintained](https://img.shields.io/maintenance/yes/2020)](https://github.com/tylermammone/autopruneDiscord/commits/master) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tylermammone/autopruneDiscord/issues) [![HitCount](http://hits.dwyl.com/tylermammone/autopruneDiscord.svg)](http://hits.dwyl.com/tylermammone/autopruneDiscord)
+[![Discord](https://img.shields.io/discord/699902897319837776)](https://discord.gg/XGvHW5D) [![Maintained](https://img.shields.io/maintenance/yes/2020)](https://github.com/tylermammone/disappearingDiscord/commits/master) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tylermammone/disappearingDiscord/issues) [![HitCount](http://hits.dwyl.com/tylermammone/disappearingDiscord.svg)](http://hits.dwyl.com/tylermammone/disappearingDiscord)
 
 **See it in action and join the official public Discord at https://discord.gg/XGvHW5D**
 
