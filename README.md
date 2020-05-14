@@ -1,8 +1,8 @@
 # Discord disappearing messages
 
-[![Discord](https://img.shields.io/discord/699902897319837776)](https://discord.gg/XGvHW5D) [![Maintained](https://img.shields.io/maintenance/yes/2020)](https://github.com/tylermammone/disappearingDiscord/commits/master) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tylermammone/disappearingDiscord/issues) [![HitCount](http://hits.dwyl.com/tylermammone/disappearingDiscord.svg)](http://hits.dwyl.com/tylermammone/disappearingDiscord)
+[![Discord](https://img.shields.io/discord/699902897319837776)](https://discord.gg/4ByYrAV) [![Maintained](https://img.shields.io/maintenance/yes/2020)](https://github.com/tylermammone/disappearingDiscord/commits/master) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tylermammone/disappearingDiscord/issues) [![HitCount](http://hits.dwyl.com/tylermammone/disappearingDiscord.svg)](http://hits.dwyl.com/tylermammone/disappearingDiscord)
 
-**See it in action and join the official public Discord at https://discord.gg/XGvHW5D**
+**See it in action and join the official public Discord at https://discord.gg/4ByYrAV**
 
 Launch this bot to set message duration/timeout in Discord channels. Keep your channels neat and tidy by having messages automatically delete after your desired amount of minutes!
 
@@ -24,4 +24,4 @@ https://twitter.com/tylermammone
 ##### Bots running this code
 If your bot runs this code in any form and you'd like me to add it to this list, let me know!  
 
-* @opticbyte on https://discord.gg/XGvHW5D
+* @opticbyte on https://discord.gg/4ByYrAV
