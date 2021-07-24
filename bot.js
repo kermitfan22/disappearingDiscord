@@ -1,12 +1,12 @@
 // ---------------------------------------------------
 // Discord disappearing messages
-// See it in action @ https://discord.gg/4ByYrAV
+// See it in action @ https://discord.gg/VyFkD852Se
 // https://github.com/tylermammone/disappearingDiscord
 // ---------------------------------------------------
 // Settings
 // ---
 
-const privateBotToken = BOT_TOKEN;
+const privateBotToken = process.env.BOT_TOKEN;
 
 const disappearingMessages = {
   "699902897319837779": "30", // #general 30mins (make sure you use your own channel ID number)
@@ -20,9 +20,10 @@ const disappearingMessages = {
 const discord = require("discord.js");
 const client = new discord.Client();
 
-client.login(process.env.privateBotToken);
+client.login(privateBotToken);
 
 client.on("ready", async () => {
+  console.log(`Ready as ${client.user.username}!`);
   setInterval(function () {
     expireMessages();
   }, 60000); // check for expiring messages once a minute
